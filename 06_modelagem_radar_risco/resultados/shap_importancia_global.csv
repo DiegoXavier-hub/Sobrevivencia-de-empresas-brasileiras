@@ -1,0 +1,14 @@
+feature,mean_abs_shap
+idade_log_meses,0.44935302355218926
+flag_optante_simples_t,0.43127117319859154
+flag_excluido_simples_ate_t,0.4086520860497217
+flag_optante_mei_t,0.23893447554776284
+coorte_abertura_ano_c,0.022159246763939072
+idade_empresa_meses,0.02012591940062618
+flag_imune_ou_isenta_t,0.0056943147724555
+flag_lucro_presumido_t,0.004527432876626309
+flag_lucro_real_t,0.004216658902064453
+qtd_escrituracoes_regime_t_log,0.003899502602614488
+flag_tem_regime_t,0.003677276550975344
+flag_excluido_mei_ate_t,0.0016042773259489322
+flag_lucro_arbitrado_t,0.0

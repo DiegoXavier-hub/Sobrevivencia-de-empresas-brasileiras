@@ -1,0 +1,84 @@
+{
+  "sample": [
+    {
+      "split_temporal": "treino",
+      "n": 588158,
+      "taxa_evento": 0.05927828916719657,
+      "cobertura_regime": 0.055330370410671965
+    },
+    {
+      "split_temporal": "validacao_total",
+      "n": 622586,
+      "taxa_evento": 0.06181314709935656,
+      "cobertura_regime": 0.054548287304886395
+    },
+    {
+      "split_temporal": "teste",
+      "n": 659058,
+      "taxa_evento": 0.06568162437903796,
+      "cobertura_regime": 0.05640929933329085
+    }
+  ],
+  "final_model": {
+    "modelo": "logistic_full",
+    "calibracao": "isotonic",
+    "threshold_high": 0.11677631578947369,
+    "threshold_medium": 0.055836563095316295
+  },
+  "test_metrics": {
+    "modelo_final": "logistic_full",
+    "calibracao": "isotonic",
+    "split_temporal": "teste",
+    "roc_auc": 0.6974857517290113,
+    "pr_auc": 0.13272024769949284,
+    "brier": 0.059355604879139684,
+    "log_loss": 0.22654852340157564,
+    "base_rate": 0.06568162437903796,
+    "precision_top_5": 0.19245592207082815,
+    "recall_top_5": 0.14650711513583442,
+    "lift_top_5": 2.9301334108333914,
+    "precision_top_10": 0.16600916456771767,
+    "recall_top_10": 0.2527490297542044,
+    "lift_top_10": 2.527482627556618,
+    "threshold_alto_risco": 0.11677631578947369,
+    "flagged_rate_alto_risco": 0.09682152405402863,
+    "precision_alto_risco": 0.16755731770384416,
+    "recall_alto_risco": 0.24699685825170947,
+    "f2_alto_risco": 0.22560484126213798,
+    "lift_alto_risco": 2.5510531946788975
+  },
+  "top_features": [
+    {
+      "feature": "idade_log_meses",
+      "mean_abs_shap": 0.44935302355218926
+    },
+    {
+      "feature": "flag_optante_simples_t",
+      "mean_abs_shap": 0.43127117319859154
+    },
+    {
+      "feature": "flag_excluido_simples_ate_t",
+      "mean_abs_shap": 0.4086520860497217
+    },
+    {
+      "feature": "flag_optante_mei_t",
+      "mean_abs_shap": 0.23893447554776284
+    },
+    {
+      "feature": "coorte_abertura_ano_c",
+      "mean_abs_shap": 0.022159246763939072
+    },
+    {
+      "feature": "idade_empresa_meses",
+      "mean_abs_shap": 0.02012591940062618
+    },
+    {
+      "feature": "flag_imune_ou_isenta_t",
+      "mean_abs_shap": 0.0056943147724555
+    },
+    {
+      "feature": "flag_lucro_presumido_t",
+      "mean_abs_shap": 0.004527432876626309
+    }
+  ]
+}

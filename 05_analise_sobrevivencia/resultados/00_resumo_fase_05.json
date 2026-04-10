@@ -1,0 +1,58 @@
+{
+  "overview": {
+    "n_empresas": 67175202,
+    "n_eventos": 31342895,
+    "taxa_evento": 0.46658430591693645,
+    "mediana_km_anos": 14.168377823408624
+  },
+  "cox": {
+    "sample_rows": 202139,
+    "sample_event_rate": 0.46620394876792703,
+    "n_terms": 44,
+    "alerts_ph": 10
+  },
+  "top_causes_10y": [
+    {
+      "causa": "EXTINCAO POR ENCERRAMENTO LIQUIDACAO VOLUNTARIA",
+      "horizonte": "10_anos",
+      "dias": 3652,
+      "cif": 0.3766400076811369,
+      "followup_suficiente": true
+    },
+    {
+      "causa": "REGISTRO CANCELADO",
+      "horizonte": "10_anos",
+      "dias": 3652,
+      "cif": 0.030012269797875774,
+      "followup_suficiente": true
+    },
+    {
+      "causa": "OUTROS_MOTIVOS",
+      "horizonte": "10_anos",
+      "dias": 3652,
+      "cif": 0.005503369686949269,
+      "followup_suficiente": true
+    },
+    {
+      "causa": "OBITO DO MEI - TITULAR FALECIDO",
+      "horizonte": "10_anos",
+      "dias": 3652,
+      "cif": 0.0053325378253644825,
+      "followup_suficiente": true
+    },
+    {
+      "causa": "EXTINCAO - TRATAMENTO DIFERENCIADO DADO AS ME E EPP (LEI COMPLEMENTAR NUMERO 123/2006)",
+      "horizonte": "10_anos",
+      "dias": 3652,
+      "cif": 0.004529219594371418,
+      "followup_suficiente": true
+    },
+    {
+      "causa": "INAPTIDAO (LEI 11.941/2009 ART.54)",
+      "horizonte": "10_anos",
+      "dias": 3652,
+      "cif": 0.003656672800181131,
+      "followup_suficiente": true
+    }
+  ]
+}

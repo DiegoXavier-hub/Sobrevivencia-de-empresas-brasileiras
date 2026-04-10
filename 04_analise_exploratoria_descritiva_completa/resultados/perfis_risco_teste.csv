@@ -1,0 +1,24 @@
+faixa_idade,grupo_simples_mei,grupo_cobertura_regime,n,taxa_12m
+00-11m,Simples+MEI,Sem cobertura,2636478,0.177101
+12-23m,Simples+MEI,Sem cobertura,2012544,0.115613
+24-59m,Simples+MEI,Sem cobertura,4820927,0.090127
+00-11m,Simples sem MEI,Sem cobertura,767227,0.077019
+24-59m,Nao Simples/Nao MEI,Sem cobertura,1222617,0.07359
+05-09a,Nao Simples/Nao MEI,Sem cobertura,1883834,0.068851
+12-23m,Simples sem MEI,Sem cobertura,630346,0.067
+05-09a,Simples+MEI,Sem cobertura,4012776,0.063464
+00-11m,Nao Simples/Nao MEI,Sem cobertura,252969,0.052564
+10-19a,Simples+MEI,Sem cobertura,1327635,0.052291
+24-59m,Simples sem MEI,Sem cobertura,1421516,0.050452
+12-23m,Nao Simples/Nao MEI,Sem cobertura,250549,0.049567
+00-11m,Nao Simples/Nao MEI,Com cobertura,114438,0.04301
+12-23m,Nao Simples/Nao MEI,Com cobertura,102465,0.036598
+05-09a,Simples sem MEI,Sem cobertura,1285550,0.034996
+24-59m,Nao Simples/Nao MEI,Com cobertura,288609,0.03371
+10-19a,Nao Simples/Nao MEI,Sem cobertura,2933238,0.033553
+10-19a,Simples sem MEI,Sem cobertura,1446955,0.025661
+05-09a,Nao Simples/Nao MEI,Com cobertura,357528,0.023299
+20a+,Simples sem MEI,Sem cobertura,903843,0.020239
+10-19a,Nao Simples/Nao MEI,Com cobertura,484002,0.017279
+20a+,Nao Simples/Nao MEI,Sem cobertura,3238103,0.013794
+20a+,Nao Simples/Nao MEI,Com cobertura,505786,0.010342

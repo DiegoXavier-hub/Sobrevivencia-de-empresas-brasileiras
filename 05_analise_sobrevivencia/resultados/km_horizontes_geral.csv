@@ -1,0 +1,5 @@
+grupo,horizonte,dias,sobrevivencia_km,followup_suficiente,tempo_max_dias_grupo,n_inicial_grupo
+GERAL,1_ano,365,0.8542619247949573,True,49086,67175202
+GERAL,3_anos,1096,0.7574215917278716,True,49086,67175202
+GERAL,5_anos,1826,0.6862218765591351,True,49086,67175202
+GERAL,10_anos,3652,0.5717532797828491,True,49086,67175202

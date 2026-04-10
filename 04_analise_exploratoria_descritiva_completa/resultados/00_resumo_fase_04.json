@@ -1,0 +1,208 @@
+{
+  "overview": {
+    "survival_rows": 67175202,
+    "event_rate_snapshot": 0.46658430591693645
+  },
+  "top_cnae_div_volume": [
+    {
+      "cnae_div": "47",
+      "n": 16163219,
+      "taxa_baixa": 0.522019
+    },
+    {
+      "cnae_div": "56",
+      "n": 5552492,
+      "taxa_baixa": 0.50635
+    },
+    {
+      "cnae_div": "94",
+      "n": 4406735,
+      "taxa_baixa": 0.779208
+    },
+    {
+      "cnae_div": "43",
+      "n": 3319964,
+      "taxa_baixa": 0.352696
+    },
+    {
+      "cnae_div": "96",
+      "n": 3081969,
+      "taxa_baixa": 0.369082
+    }
+  ],
+  "top_uf_taxa": [
+    {
+      "uf": "RS",
+      "n": 4579457,
+      "taxa_baixa": 0.509502
+    },
+    {
+      "uf": "MG",
+      "n": 7326159,
+      "taxa_baixa": 0.505793
+    },
+    {
+      "uf": "RO",
+      "n": 464060,
+      "taxa_baixa": 0.498091
+    },
+    {
+      "uf": "AL",
+      "n": 643866,
+      "taxa_baixa": 0.494072
+    },
+    {
+      "uf": "SE",
+      "n": 447719,
+      "taxa_baixa": 0.490051
+    }
+  ],
+  "top_municipio_taxa": [
+    {
+      "municipio": "POA",
+      "uf": "SP",
+      "n": 57302,
+      "taxa_baixa": 0.560644
+    },
+    {
+      "municipio": "RIO GRANDE",
+      "uf": "RS",
+      "n": 73786,
+      "taxa_baixa": 0.521617
+    },
+    {
+      "municipio": "SAPUCAIA DO SUL",
+      "uf": "RS",
+      "n": 51384,
+      "taxa_baixa": 0.520707
+    },
+    {
+      "municipio": "VARGINHA",
+      "uf": "MG",
+      "n": 59859,
+      "taxa_baixa": 0.518335
+    },
+    {
+      "municipio": "PELOTAS",
+      "uf": "RS",
+      "n": 134686,
+      "taxa_baixa": 0.511939
+    },
+    {
+      "municipio": "VIAMAO",
+      "uf": "RS",
+      "n": 84144,
+      "taxa_baixa": 0.510839
+    },
+    {
+      "municipio": "ITAPETININGA",
+      "uf": "SP",
+      "n": 61230,
+      "taxa_baixa": 0.509391
+    },
+    {
+      "municipio": "IPATINGA",
+      "uf": "MG",
+      "n": 97077,
+      "taxa_baixa": 0.506979
+    },
+    {
+      "municipio": "LAGES",
+      "uf": "SC",
+      "n": 65225,
+      "taxa_baixa": 0.504561
+    },
+    {
+      "municipio": "MOGI GUACU",
+      "uf": "SP",
+      "n": 56624,
+      "taxa_baixa": 0.503391
+    }
+  ],
+  "radar_test_top_profiles": [
+    {
+      "faixa_idade": "00-11m",
+      "grupo_simples_mei": "Simples+MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 2636478,
+      "taxa_12m": 0.177101
+    },
+    {
+      "faixa_idade": "12-23m",
+      "grupo_simples_mei": "Simples+MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 2012544,
+      "taxa_12m": 0.115613
+    },
+    {
+      "faixa_idade": "24-59m",
+      "grupo_simples_mei": "Simples+MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 4820927,
+      "taxa_12m": 0.090127
+    },
+    {
+      "faixa_idade": "00-11m",
+      "grupo_simples_mei": "Simples sem MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 767227,
+      "taxa_12m": 0.077019
+    },
+    {
+      "faixa_idade": "24-59m",
+      "grupo_simples_mei": "Nao Simples/Nao MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 1222617,
+      "taxa_12m": 0.07359
+    },
+    {
+      "faixa_idade": "05-09a",
+      "grupo_simples_mei": "Nao Simples/Nao MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 1883834,
+      "taxa_12m": 0.068851
+    },
+    {
+      "faixa_idade": "12-23m",
+      "grupo_simples_mei": "Simples sem MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 630346,
+      "taxa_12m": 0.067
+    },
+    {
+      "faixa_idade": "05-09a",
+      "grupo_simples_mei": "Simples+MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 4012776,
+      "taxa_12m": 0.063464
+    },
+    {
+      "faixa_idade": "00-11m",
+      "grupo_simples_mei": "Nao Simples/Nao MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 252969,
+      "taxa_12m": 0.052564
+    },
+    {
+      "faixa_idade": "10-19a",
+      "grupo_simples_mei": "Simples+MEI",
+      "grupo_cobertura_regime": "Sem cobertura",
+      "n": 1327635,
+      "taxa_12m": 0.052291
+    }
+  ],
+  "outliers_datas_antigas": [
+    {
+      "faixa_data_inicio": "1900-1949",
+      "n": 1001
+    },
+    {
+      "faixa_data_inicio": "1950+",
+      "n": 67174197
+    },
+    {
+      "faixa_data_inicio": "Antes de 1900",
+      "n": 4
+    }
+  ]
+}
