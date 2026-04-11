@@ -8,6 +8,9 @@ __pycache__/
 **/*.md
 !/README.md
 
+**/*.tex
+**/*.bib
+
 Base de Dados/
 
 01_dados/
@@ -39,5 +42,13 @@ Base de Dados/
 **/*.fls
 **/*.fdb_latexmk
 **/*.synctex.gz
-**/*.tex
-**/*.bib
+
+08_artefatos_finais/*
+!08_artefatos_finais/01_artigo/
+08_artefatos_finais/01_artigo/*
+!08_artefatos_finais/01_artigo/en/
+!08_artefatos_finais/01_artigo/pt/
+08_artefatos_finais/01_artigo/en/*
+08_artefatos_finais/01_artigo/pt/*
+!08_artefatos_finais/01_artigo/en/artigo.pdf
+!08_artefatos_finais/01_artigo/pt/artigo.pdf
